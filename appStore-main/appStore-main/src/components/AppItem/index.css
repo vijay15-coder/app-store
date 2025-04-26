@@ -1,0 +1,25 @@
+.app-container {
+  list-style-type: none;
+  background-color: #ffffff;
+  border: 0 solid;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  width: 160px;
+  height: 190px;
+  text-align: center;
+  padding: 16px 2px 4px 2px;
+}
+
+.app-logo {
+  height: 90px;
+  width: 90px;
+}
+
+.app-name {
+  font-family: 'Bree Serif';
+  font-size: 18px;
+  font-weight: 600;
+  color: #1e293b;
+  text-align: center;
+}
